@@ -1,0 +1,22 @@
+
+.col-1 {
+    padding-top: 8%;
+    border: 1px solid #8A8A8A;
+}
+
+
+.grey {
+    background-color: rgb(211, 207, 207);
+}
+
+.orange {
+    background-color: #FF7F2A;
+}
+
+.yellow {
+    background-color: #FFCC00;
+}
+
+.black {
+    background-color: #000;
+}
